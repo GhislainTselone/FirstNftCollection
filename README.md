@@ -4,7 +4,7 @@
 This project is about the creation of a simple NFT collection.
 
 ## Test Network
-Mumbai Polygon
+Forked Mumbai Polygon
 
 ## Deployment Network 
 Mumbai Polygon
